@@ -69,5 +69,7 @@ gz sim shapes.sdf
 ```
 #### Sources
 https://medium.com/@oelmofty/ros2-in-docker-why-and-how-b72b3880dc97
+
 https://linuxconfig.org/setting-up-nvidia-cuda-toolkit-in-a-docker-container-on-debian-ubuntu
+
 https://github.com/MOGI-ROS/Week-3-4-Gazebo-basics
