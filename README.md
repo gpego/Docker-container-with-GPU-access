@@ -1,8 +1,7 @@
 # Docker-container-with-GPU-access
 Creating a Docker container with GPU access, ROS 2 and Gazebo
-
-
-Tested on Win11 with WSL2. Should work on native Ubuntu as well but not guaranteed.
+## OS
+This was tested on Win11 with WSL2. It should work on native Ubuntu as well but that's not guaranteed.
 ## Check for GPU access
 Check for recognized GPU(s) using:
 ```bash
